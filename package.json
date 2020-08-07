@@ -1,0 +1,11 @@
+{
+  "name": "pure-http-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Nick3n/pure-http-server.git",
+  "author": "Nicolas Amorim <nicolas.amorim@dampa.com.br>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
